@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sukruth99
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning java full stack
-- 💞️ I’m looking to collaborate on c++ for gaming , and graphic design.
+- 👀 I’m interested in web development, UI , UX,  AI and ML
+- 🌱 I’m currently learning java full stack.
+- 💞️ I’m looking to collaborate on gaming, front end, data visualization and analysis using ML
 - 📫 How to reach me instagram: lawliet__15,  gmail: sunnykotturu@gmail.com, phn: 8573858760
 
 <!---
